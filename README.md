@@ -1,2 +1,2 @@
 # js
-Everything javascript
+All javascript files for learning
